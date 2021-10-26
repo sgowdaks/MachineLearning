@@ -1,2 +1,2 @@
 # MachineLearning
-Machine learning homeworks
+Machine learning homeworks at LMU
