@@ -1,2 +1,2 @@
 # MachineLearning
-Machine learning homeworks at LMU
+Machine learning homeworks at Lyola Marymount University
