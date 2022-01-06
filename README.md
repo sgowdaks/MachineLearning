@@ -1,2 +1,2 @@
 # MachineLearning
-Machine learning coursework at Lyola Marymount University
+Machine learning coursework at Loyola Marymount University
